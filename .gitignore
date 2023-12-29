@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+env
+venv
+.venv
+settings_override.py
+criollo
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Virtual Environment
+venv/
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Django Rest Framework
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+__pycache__/
+
+# Other
+*.swp
+.DS_Store
+
+
+
+
+*.pyc
+*.sqlite3
+.idea
+.vscode
+*.xml
+.idea/
+staticfiles/
